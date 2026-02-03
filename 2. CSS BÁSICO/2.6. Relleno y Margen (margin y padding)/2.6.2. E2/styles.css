@@ -1,0 +1,21 @@
+body {
+    /* display: flex; */
+    flex-direction: row;
+}
+
+.box {
+    background-color: red; 
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    border: solid 5px black;
+    border-radius: 15px;
+}
+
+.box1 {
+    margin-bottom: 60px;
+}
+
+.box2 {
+    margin-top: 10px;
+}

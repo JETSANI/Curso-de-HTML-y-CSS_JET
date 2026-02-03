@@ -1,0 +1,17 @@
+@font-face {
+    font-family: jetF1;
+    src: url("./fonts/Montserrat-ExtraBoldItalic.ttf") format("truetype");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: jetF2;
+    src: url("./fonts/Montserrat-ExtraLightItalic.ttf") format("truetype");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: jetF3;
+    src: url("./fonts/Montserrat-ThinItalic.ttf") format("truetype");
+    font-weight: 100;
+}

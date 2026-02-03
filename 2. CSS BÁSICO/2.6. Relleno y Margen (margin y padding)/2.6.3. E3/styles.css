@@ -1,0 +1,71 @@
+body {
+    background-color: rgba(226, 140, 224, 0.793);
+}
+
+.tarjeta_de_presentación {
+    background-color: rgb(108, 155, 198);
+    width: 650px;
+    height: 340px;
+    border: solid 5px rgba(38, 17, 201, 0.543);
+    border-radius: 30px;
+    text-align: justify;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+
+    margin: 10px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: italic;
+    padding: 10px 0px 5px 0px;
+    width: 100%;
+    border-bottom: solid 3px rgba(38, 17, 201, 0.543);
+    border-top: solid 3px rgba(38, 17, 201, 0.543);
+    border-radius: 10px 10px 10px 10px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 10px 30px;
+    font-style: italic;
+}
+
+.SubFoto {
+    background-color: rgb(108, 155, 198);
+    width: 200px;
+    height: 150px;
+    padding: 20px 30px;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+    border-radius: 15px 15px 15px 15px;
+    border: 4px solid rgb(49, 93, 129);
+}
+
+.SubTexto {
+    width: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 1.3;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-transform: lowercase;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 15px;
+}

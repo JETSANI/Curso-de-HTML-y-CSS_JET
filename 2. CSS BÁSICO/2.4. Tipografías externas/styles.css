@@ -1,0 +1,11 @@
+h1 {
+    font-size: 20px;
+    color: blue;
+    background-color: lightgray;
+    font-family: jetF1;
+    font-weight: 100;
+}
+
+p {
+    font-family: jetF3;
+}

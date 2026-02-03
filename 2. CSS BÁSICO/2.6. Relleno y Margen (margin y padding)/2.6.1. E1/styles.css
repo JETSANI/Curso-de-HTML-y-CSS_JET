@@ -1,0 +1,26 @@
+h1 {
+    border: solid 5px black;
+    padding: 0px 0px 0px 0px;
+    border-radius: 9px;
+}
+
+.formulario {
+    color: red;
+    background-color: red;
+}
+
+
+.formulario-input {
+    background-color: black;
+    border-radius: 15px;
+    width: 90%;
+    margin: 10px 10px;
+    padding: 5px 5px;
+    color: white;       
+}
+
+.input-submit {
+    background-color: pink;
+    color: rgb(3, 3, 101);
+    font-weight: 900;
+}

@@ -1,0 +1,29 @@
+.abc {
+    text-decoration: none;
+    color: red;
+}
+
+p {
+    color: blue; 
+    font-family: sans-serif;  
+    font-size: 11px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: line-through none;
+    line-height: 1.5;
+    /* text-transform: lowercase; */
+    /* text-transform: capitalize; */
+    /* text-transform: full-width; */
+    /* text-shadow: 1px 1px 1px gray; */
+    /* word-wrap: break-word; */
+    /* word-break: break-all; */
+    /* adicional, propiedad de linea */
+    letter-spacing: 1px;
+}
+
+
+
+a {
+    text-decoration: none;
+}
